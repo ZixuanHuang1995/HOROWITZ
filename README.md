@@ -1,4 +1,4 @@
-# DataStructure
+# HOROWITZ
 
 HOROWITZ Basic Concepts
 1. System life cycle: Requirements -> Analysis -> Design -> Refinement and Coding -> Verification

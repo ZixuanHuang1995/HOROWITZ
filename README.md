@@ -1,6 +1,6 @@
 # HOROWITZ
 
-HOROWITZ Basic Concepts
+Basic Concepts
 1. System life cycle: Requirements -> Analysis -> Design -> Refinement and Coding -> Verification
 2. Pointers and Dynamic Memory Allocation: e.g. heap (allocating storage at run-time)
 3. Algorithm Specification: Flow Chart e.g. Recursive

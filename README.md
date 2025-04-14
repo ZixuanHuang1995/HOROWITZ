@@ -13,6 +13,6 @@ Data Structure
 3. Stacks and Queues
 4. Linked Lists
 5. Trees: Data are organized in a hierarchical manner.
-6. Graphs: V(G), E(G) represent the sets of pairs of vertices and edges, repectively, of graph G.
+6. Graphs: V(G), E(G) represent the sets of pairs of vertices and edges, respectively, of graph G.
 7. Sorting algorithms
 8. Hashing: Enables us to perform the dictionary operations search, insert and delete in O(1) expected time.

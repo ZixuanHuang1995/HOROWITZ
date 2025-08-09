@@ -15,9 +15,14 @@
 5. Trees: Data are organized in a hierarchical manner.
 6. Graphs: V(G), E(G) represent the sets of pairs of vertices and edges, respectively, of graph G.
 
+## Graph Operations
+1. Depth First Search
+2. Breadth First Search
+3. Spanning Trees
+
+## Minimum Cost Spanning Trees
+
 ## Sorting algorithms
-1. DFS
-2. BFS
 
 ## Hashing
 Enables us to perform the dictionary operations search, insert and delete in O(1) expected time.

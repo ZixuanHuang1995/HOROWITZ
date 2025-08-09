@@ -15,6 +15,9 @@
 5. Trees: Data are organized in a hierarchical manner.
 6. Graphs: V(G), E(G) represent the sets of pairs of vertices and edges, respectively, of graph G.
 
+## Hashing
+Enables us to perform the dictionary operations search, insert and delete in O(1) expected time.
+
 ## Graph Operations
 1. Depth First Search
 2. Breadth First Search
@@ -24,5 +27,3 @@
 
 ## Sorting algorithms
 
-## Hashing
-Enables us to perform the dictionary operations search, insert and delete in O(1) expected time.

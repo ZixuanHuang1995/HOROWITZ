@@ -19,11 +19,18 @@
 Enables us to perform the dictionary operations search, insert and delete in O(1) expected time.
 
 ## Graph Operations
-1. Depth First Search
-2. Breadth First Search
-3. Spanning Trees
+Grapg Traversals
+- Depth First Search (DFS): Implement with a stack and recursion.
+- Breadth First Search (BFS): Implement with a queue.
 
 ## Minimum Cost Spanning Trees
+- Kruskal's Algorithm
+- Prim's Algorithm
+- Sollin's Algorithm
+- Shortest Paths: Dijkstra's Algorithm
 
 ## Sorting algorithms
-
+- Insertion Sort
+- Quick Sort
+- Merge Sort
+- Heap Sort

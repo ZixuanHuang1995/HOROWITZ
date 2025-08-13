@@ -19,7 +19,7 @@
 Enables us to perform the dictionary operations search, insert and delete in O(1) expected time.
 
 ## Graph Operations
-Grapg Traversals
+Graph Traversals
 - Depth First Search (DFS): Implement with a stack and recursion.
 - Breadth First Search (BFS): Implement with a queue.
 
